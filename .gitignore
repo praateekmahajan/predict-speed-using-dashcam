@@ -1,0 +1,5 @@
+*.jpg
+*.mp4
+data/*.mp4
+data/frames
+data/*.j*g
